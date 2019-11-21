@@ -44,7 +44,6 @@ class Debugger {
                 {
                     $n=$this->n;
                     $this->jsonDataFinal+=['p-'.$n => $this->jsonDataInitial]; 
-                    //$this->jsonDataFinal+=$this->jsonDataInitial;   
                 }
                 else 
                 {
